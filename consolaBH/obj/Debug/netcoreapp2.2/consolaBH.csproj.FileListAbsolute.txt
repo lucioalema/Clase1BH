@@ -1,0 +1,11 @@
+/home/lucio/Documentos/juanBH/consolaBH/bin/Debug/netcoreapp2.2/consolaBH.deps.json
+/home/lucio/Documentos/juanBH/consolaBH/bin/Debug/netcoreapp2.2/consolaBH.runtimeconfig.json
+/home/lucio/Documentos/juanBH/consolaBH/bin/Debug/netcoreapp2.2/consolaBH.runtimeconfig.dev.json
+/home/lucio/Documentos/juanBH/consolaBH/bin/Debug/netcoreapp2.2/consolaBH.dll
+/home/lucio/Documentos/juanBH/consolaBH/bin/Debug/netcoreapp2.2/consolaBH.pdb
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.csprojAssemblyReference.cache
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.csproj.CoreCompileInputs.cache
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.AssemblyInfoInputs.cache
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.AssemblyInfo.cs
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.dll
+/home/lucio/Documentos/juanBH/consolaBH/obj/Debug/netcoreapp2.2/consolaBH.pdb
